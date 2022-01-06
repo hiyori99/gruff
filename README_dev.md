@@ -1,4 +1,4 @@
-# 開発のREADMEのレンプレート
+# 開発のREADMEのテンプレート
 GitのREADMEについて
 ## 概要
 開発のREADMEのテンプレートです。
