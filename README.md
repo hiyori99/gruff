@@ -18,8 +18,10 @@ GitのREADMEについて
 ## 使い方
 インストール方法
 
-`git clone git@××××××××××××××××××××××××××××××××××××××.git<br>
-cd ××××××××××××××××××××××××××<br>
+`git clone git@××××××××××××××××××××××××××××××××××××××.git
+<br>
+cd ××××××××××××××××××××××××××
+<br>
 docker-compose up -d --build`
 
 リンク：[Google先生](https://www.google.co.jp/)
