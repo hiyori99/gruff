@@ -2,7 +2,7 @@
 GitのREADMEについて
 ## 概要
 開発のREADMEのテンプレートです。
-![G](img/dog.png)
+![G](https://i.gzn.jp/img/2020/11/05/github-source-code-leak/00.png)
 ## 目的
 - リスト1
     - ネスト リスト1_1
