@@ -2,6 +2,7 @@
 GitのREADMEについて
 ## 概要
 開発のREADMEのテンプレートです。
+![Github](img/dog.png)
 ## 目的
 - リスト1
     - ネスト リスト1_1
