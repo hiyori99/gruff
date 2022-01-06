@@ -19,7 +19,9 @@ GitのREADMEについて
 インストール方法
 
 `git clone git@××××××××××××××××××××××××××××××××××××××.git
+
 cd ××××××××××××××××××××××××××
+
 docker-compose up -d --build`
 
 リンク：[Google先生](https://www.google.co.jp/)
